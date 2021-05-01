@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+}
+.hadir {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    width: 410px;
+    height: 180px;
+    background-color: plum;
+    font-weight: bold;
+}
+.usp{
+    color: rebeccapurple;
+}
+.btn {
+    margin-top: 20px;
+    color: plum;
+    background-color: purple;
+    border-radius: 6px;
+    margin-left: 130px;
+}
+h1{
+    color: purple;
+    margin-left: 2px;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0.75), rgba(0, 0, 0, 0));
+}
