@@ -1,5 +1,5 @@
 # Latihan_form_registrasi
-Create a simple timesheet with HTML, CSS, PHP (Membuat Form Absen sederhana dengan HTML ,CSS,PHP)
+Create a simple Form Absen sederhana with HTML, CSS, PHP (Membuat Form Absen sederhana dengan HTML ,CSS,PHP)
 <br>
 - This repository is the result of training on KSM Android: Web Beginner Meeting 3, which is to create a form with various inputs.
 (Repository ini merupakan hasil latihan pada KSM Android : Web Beginner Pertemuan 3, yaitu membuat Form dengan berbagai inputan).
